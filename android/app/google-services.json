@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726556693164",
+    "project_id": "leafy-house",
+    "storage_bucket": "leafy-house.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726556693164:android:db672d7feb86ab68874509",
+        "android_client_info": {
+          "package_name": "com.leafyhouse.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqJx1Wc7v_JE4ihEwASRTuoq4XMu4SD_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
