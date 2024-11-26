@@ -85,5 +85,4 @@ class DefaultFirebaseOptions {
     storageBucket: 'leafy-house.firebasestorage.app',
     measurementId: 'G-T2JT7VEXYP',
   );
-
 }
